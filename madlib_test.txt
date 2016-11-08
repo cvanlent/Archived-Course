@@ -1,0 +1,1 @@
+For those of you who are using the Instagram API, did you guys run into this problem? I wasn't getting this type of error when I ask for likes and other information but, for some reason, I am getting this error when I ask for comments. Any ideas on how to solve this?
